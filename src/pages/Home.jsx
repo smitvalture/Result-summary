@@ -35,7 +35,7 @@ const Home = () => {
     <>
       {/* **************** Desktop & Tablet view **************** */}
       <section className='hidden w-full min-h-screen h-full md:flex justify-center items-center font-Hanken'>
-        <div className='w-[680px] h-[480px] grid grid-cols-2 shadow-xl rounded-3xl overflow-hidden'>
+        <div className='w-[680px] h-[480px] grid grid-cols-2 shadow-2xl shadow-blue-200 rounded-3xl overflow-hidden'>
 
           {/* ************* Left ***************** */}
           <div className='min-h-full min-w-full flex flex-col gap-6 justify-center items-center bg-gradient-to-b from-[#7661ec] via-[#4534de] to-[#4333d9] rounded-3xl'>
