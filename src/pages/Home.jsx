@@ -34,7 +34,7 @@ const Home = () => {
 
     <>
       {/* **************** Desktop & Tablet view **************** */}
-      <section className='hidden w-full min-h-screen h-full md:flex justify-center items-center font-Hanken'>
+      <section className='hidden w-full min-h-screen h-full md:flex justify-center items-center font-Hanken scale-110'>
         <div className='w-[680px] h-[480px] grid grid-cols-2 shadow-2xl shadow-blue-200 rounded-3xl overflow-hidden'>
 
           {/* ************* Left ***************** */}
